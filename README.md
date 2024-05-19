@@ -1,0 +1,1 @@
+# Shell_Script_for_Dual_Apps_Django_Template
